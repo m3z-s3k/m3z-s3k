@@ -1,0 +1,15 @@
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+*.jks
+*.log
+*.zip
+*.apk
+*.aab
+node_modules/
+.DS_Store
+Thumbs.db
