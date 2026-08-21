@@ -36,6 +36,10 @@ An Android-based operational software project designed to process structured ope
 
 Validated through controlled field testing in a real operational environment.
 
+**Public clean-room engineering case:** [Operational Print Routing Simulator](https://github.com/m3z-s3k/print-routing-simulator)
+
+Independent Java 21 clean-room simulator of the generic routing problem, demonstrating deterministic routing, bounded loopback TCP transport, simulated execution, failure handling, and dependency-free automated verification.
+
 ### Offline-First Operations Platform
 
 A Node.js and JavaScript project exploring offline-first operational workflows, structured metrics, evidence handling, integrity controls, and reproducible validation.
@@ -43,8 +47,6 @@ A Node.js and JavaScript project exploring offline-first operational workflows, 
 ### Systems & Network Diagnostics
 
 Diagnostic work covering Windows system inventory, network-interface auditing, gateway latency, DNS diagnostics, and hardware-performance baseline analysis.
-
-_Public case studies will be linked here as they are released._
 
 ## Education & Credentials
 
